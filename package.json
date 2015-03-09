@@ -1,8 +1,8 @@
 {
-  "private": true,
   "name": "my-code",
-  "version": "0.1.0",
+  "description": "a really cool app",
+  "version": "0.0.1",
   "engines": {
-    "node": "~0.10.21"
+    "node": "0.10.x"
   }
 }
